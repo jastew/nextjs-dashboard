@@ -80,3 +80,7 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 A
 package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47
+P
+ app/dashboard/invoices/error.tsx,6/0/60234283febc1ecc6aa650ce68dca7151bc1734b
+^
+.app/dashboard/invoices/[id]/edit/not-found.tsx,c/5/c5319178954e525f086eaad184d96f9fc0e650c0
